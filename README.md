@@ -5,14 +5,14 @@ These are primarily designed to be used with seed pixels on xmas props (not limi
 
 Options are :
 
-+ [Small version (16.256mm x 18.288mm x 1.6mm)](./PropInputOutput/README.md)
++ [Small version (16.256mm x 18.288mm x 1.6mm)](./Small/README.md)
 ![image of small pcb with details documented](./Small/images/EasyEDA_PCB_Document.png "PCB Document details")
 	_Features_
 	* Strain relief for input and output seed pixel wires
 	* Strain relief for input and output power.
 	* 5Amp @5V (tested to 10A for 10 mins, gets warm) 
 <br/><br/><br/>
-+ [Medium version (16.256mm x 25.400mm x 1.6mm)](./PropInputOutput/README.md)
++ [Medium version (16.256mm x 25.400mm x 1.6mm)](./Medium/README.md)
 ![image of medium pcb with details documented](./Medium/images/EasyEDA_PCB_Document.png "PCB Document details")
 	_Features_
 	* Strain relief for input and output seed pixel wires
