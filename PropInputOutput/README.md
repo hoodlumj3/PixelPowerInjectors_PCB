@@ -5,7 +5,7 @@
 
 These are primarily designed to be used with seed pixels on xmas props (but not limited)
 
-![image of small pcb with details documented](./images/EasyEDA_PCB_Document.png "Logo Title Text 1"){width=800}
+![image of IO pcb with details documented](./images/EasyEDA_PCB_Document.png "Document details")
 
 ### _Gerbers_
 [Link to Gerbers .zip](./Gerber_Pixel-Prop-Interlink_PCB-Pixel-Prop-InputOutput_2025-12-08.zip)
@@ -23,11 +23,11 @@ These are primarily designed to be used with seed pixels on xmas props (but not 
 	+ 805 led and 805 resistor for power indicator.
 	+ can also use 3.81mm KF2EDG/15EDG 3P/2P (curved or straignt pin) on input and output (for quick connects)		
 
-![image of small pcb with details documented](./images/EasyEDA_PCB_Design.png "EasyEDA Design"){height=200}
-![image of small pcb with details documented](./images/EasyEDA_PCB_Top.png "Top view of the PCB in EasyEDA"){height=200}
-![image of small pcb with details documented](./images/EasyEDA_PCB_bottom.png "Bottom view of the PCB in EasyEDA"){height=200}
+![image of IO pcb with details documented](./images/EasyEDA_PCB_Design.png "EasyEDA Design")
+![image of IO pcb with details documented](./images/EasyEDA_PCB_Top.png "Top view of the PCB in EasyEDA")
+![image of IO pcb with details documented](./images/EasyEDA_PCB_Bottom.png "Bottom view of the PCB in EasyEDA")
 
-![image of small pcb with details documented](./images/PXL_20251207_155507760.MP.jpg "Insalled on seed pixel Prop"){height=200}
-![image of small pcb with details documented](./images/PXL_20251207_155521297.MP.jpg "Close up of PCB on prop"){height=200}
-![image of small pcb with details documented](./images/PXL_20251207_155539712.MP.jpg "PCB with 3d printed cover, Silicon the cover to water weather seel it"){height=200}
-![image of small pcb with details documented](./images/PXL_20251207_160100226.MP.jpg "Close up of rear of PCB"){height=200}
+![image of IO pcb with details documented](./images/PXL_20251207_155507760.MP.jpg "Insalled on seed pixel Prop")
+![image of IO pcb with details documented](./images/PXL_20251207_155521297.MP.jpg "Close up of PCB on prop")
+![image of IO pcb with details documented](./images/PXL_20251207_155539712.MP.jpg "PCB with 3d printed cover, Silicon the cover to water weather seel it")
+![image of IO pcb with details documented](./images/PXL_20251207_160100226.MP.jpg "Close up of rear of PCB")
